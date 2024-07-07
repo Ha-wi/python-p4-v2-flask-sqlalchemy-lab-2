@@ -19,3 +19,4 @@ class TestAssociationProxy:
 
             assert hasattr(c, 'items')
             assert i in c.items
+            
